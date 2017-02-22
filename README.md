@@ -1,6 +1,6 @@
 <p>
 <h1>Dokumentation aus den Unterrichtsunden</h1>
-<table style= >
+<table>
 <tr>
 <th> Datum</th>
 <th>Fortschritt in den Unterrichtsstunden</th>
