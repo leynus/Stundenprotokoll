@@ -8,30 +8,56 @@
 <tr>
 <td>15.12.2016</td>
 <td>Kein Informatikunterricht</td>
+</tr>
+<tr>
 <td>19.12.2016</td>
 <td>In dieser Stunde begannen wir der Umsetzung der Score-Idee</td>
+</tr>
+<tr>
 <td>09.01.2017</td>
 <td> Kein Informatikunterricht </td>
+</tr>
+<tr>
 <td>12.01.2017</td>
 <td> Kein Informatikunterricht </td>
+</tr>
+<tr>
 <td>16.01.2017</td>
 <td> In dieser Stunde  versuchten wir unser Programm zu verfeinern, und den Score nach dem Durchlauf wieder auf null zu setzen.</td>
+</tr>
+<tr>
 <td>23.01.2017</td>
-<td> </td>
+<td> Wir haben probiert eine Art Gesamt-Score in das Spiel einzubauen. Dabei haben wir das Produkt aus der Zeit und der Nahrungsmenge gebildet. </td>
+</tr>
+<tr>
 <td>26.01.2017</td>
-<td></td>
+<td>Wir haben probiert, einen ersten Entwurf einer Github-Pages-Seite zu erstellen. Leider mussten wir uns in dieser Stunde zu dritt einen Computer teilen, weswegen wir uns nur gröber ins Thema hineinarbeiten konnten.</td>
+</tr>
+<tr>
 <td>30.01.2017</td>
 <td> Kein Informatikunterricht </td>
+</tr>
+<tr>
 <td>02.02.2017</td>
 <td> Kein Informatikunterricht </td>
+</tr>
+<tr>
 <td>07.02.2017</td>
 <td>Aufgrund von Stefans Vortrag zum Thema Html-Programmieren haben wir an diesem Tag  nicht weiter gearbeitet</td>
+</tr>
+<tr>
 <td>09.02.2017</td>
 <td> In dieser Stunde erstellten wir eine eigene Website über Github und begannen unser Projekt zu übertragen.</td>
+</tr>
+<tr>
 <td>13.02.2017</td>
 <td> In dieser Stunde stellten wir das in der vorherigen Stunde begonnene Dokumentationübertragen fertig und strukturierten unsere Website mit unterschiedlichen Überschriftgrößen und Absätzen. </td>
+</tr>
+<tr>
 <td>16.02.2017</td>
 <td> In dieser Stunde erstellten wir ein verlinktes  Inhaltsverzeichnis und begannen mit dem einfügen von Bildern.</td>
+</tr>
+<tr>
 <td>22.02.2017</td>
 <td>In dieser Stunde begannen wir unsere Dokumentation weiter zu aktualisieren und letzte Hand an das Layout, das Design und an das äußere Erscheinen allgemein.</td>
 </tr>
