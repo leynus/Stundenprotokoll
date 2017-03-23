@@ -1,5 +1,6 @@
 <p>
 <h1>Dokumentation aus den Unterrichtsunden</h1>
+<p>Anmerkung: Das Stundenprotokoll vom 15.12.2016 bis zum 22.02.2017 ist unvollständig und veraltet, und ist der letzten Bewertung zuzuteilen.</p>
 <table>
 <tr>
 <th> Datum</th>
@@ -60,6 +61,42 @@
 <tr>
 <td>22.02.2017</td>
 <td>In dieser Stunde begannen wir unsere Dokumentation weiter zu aktualisieren und letzte Hand an das Layout, das Design und an das äußere Erscheinen allgemein.</td>
+</tr>
+<tr>
+<td>23.02.2017</td>
+<td></td>
+</tr>
+<tr>
+<td>01.03.2017</td>
+<td></td>
+</tr>
+<tr>
+<td>02.03.2017</td>
+<td></td>
+</tr>
+<tr>
+<td>08.03.2017</td>
+<td></td>
+</tr>
+<tr>
+<td>09.03.2017</td>
+<td></td>
+</tr>
+<tr>
+<td>14.03.2017</td>
+<td></td>
+</tr>
+<tr>
+<td>16.03.2017</td>
+<td></td>
+</tr>
+<tr>
+<td>21.03.2017</td>
+<td></td>
+</tr>
+<tr>
+<td>23.03.2017</td>
+<td></td>
 </tr>
 </table>
 </p>
